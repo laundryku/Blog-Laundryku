@@ -1,0 +1,45 @@
+{
+  "name": "LaundryKU",
+  "short_name": "LaundryKU.id",
+  "start_url": "https://www.laundryku.id/",
+  "display": "standalone",
+   "background_color": "#fff",
+  "theme_color": "#3778C2",
+  "description": "Pusat informasi dunia laundry, peralatan penting dalam usaha laundry. Khususnya wilayah Lampung dan sekitarnya",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCByqyFH3xr9hbLW6PU3l0r6nLD-KnZii8agLBVFuOoFfEVuPJGhITHyIS8hO0uRU7-5YaOsEiOF9Y6BZhsSHe68caytGnd-D63eeeYIo73CSEjekGO5bOZKidjKGqYb89YsSSunBzz8BU9S7s-hoTvnf6hsJ1nHSOJWrnt3wr3XH5Ynk03YhJST52JxlB/s1600/android-icon-36x36.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizFHLus4MLaWSjei0dSLAhFJCOjZoJRyNmPByxjDfvd33ao7QzuxP7P5XAVh4f92TadkXEsQze_hgQ0utaZJn79QvN4u2TBASDwqsgBD_1o2H83RQATNNmeYHzdqaEmZlgt8994BZZ3wdwTmdLEqL6016wSttK6DwRB2qM_5NB-sTmC5b39j0T1bpLPnIg/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgTjp3CJFcl7y81xkskRb4q7WKiL-YxwetJBgnSv8MzeDx38g30pkDKZExKWoLBUvd6oNkUijrw0RA9dqoRpOk2epsenMWNXxH6VLLdQVG2XrP3HyfSU-39afaBK6TQVEbfDboHIz9DCclNsXzjgEuLNQSnS_7WMZeMUbcwoQS6fq2i4BUKtQEKwu4sLfH/s1600/apple-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX50YICTByl0eEe7z3RdOYLnMi8oJSLIE1Cu_D1BJLfhfBSdSnvWuuXZXIfBx7Y8dOZ3bZRDcKudqKtGmaGAq3goDVmSDp4ybM_aGUCaZ6zZg45jHfwriGLfR0CWGFClCi5uVppJW3AQaChIYfwlucnX-gEIuSfBKinw6lyG-aJhcBLtKY6NOwuokOy41e/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4RwBmpkcPxLnyPC_Szf4k0WQH53jw7lTrGmlBsdHUi4fhzyB8nWBsWlJ70M_Cp-wgycqT_I-_zft98tXh-dOKh9pfoSA2Ipb4PhHX16UJpIqFdVcGbOm5bjMsbQcFS8np9hhXYrFuQppwJR8FPb9UCpG-wWnk9LGEEISZYKp_II-CT62QTLPVo2m8VeET/s1600/apple-icon-114x114.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghfQ-T4qqZD1PKxI_fcLGOEaENAnnrl07abpTEDicAbWEqLNknleVoSAxk48-bR8TJ2qwQJc0JwdB0nNivldp2U9Jy24U-VVctyWkiDwvRIhppXUTdTIKLwyDeZdP_oV7hMn1sEN2xfveZdkixr-F4Hz0UaX9Vj5dV2F-O-ibQsUNruNbZDbs4tk_p6m7U/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2hddCqjy3kkzQjngjO_xn-_G1n4SGxF_Aj22k0t2KoByaV3YvU_O3S1hPypLFZmJLh1eyNf5HKsrlSyBWqgwNbDJux7SlIzVih96P5RP3IjDCT_mRRpk2zq-6tZaR1nQvjOPCghAIYlrQ4YnHDqAZrhYW3wRcF__MxN7AyhBs3iK8jSco1RFOhhobazO5/s320/laundryku.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
