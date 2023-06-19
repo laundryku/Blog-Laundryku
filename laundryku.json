@@ -1,7 +1,7 @@
 {
   "name": "LaundryKU",
   "short_name": "LaundryKU.id",
-  "start_url": "https://www.laundryku.id/",
+  "start_url": "https://www.laundryku.id/?m=1",
   "display": "standalone",
    "background_color": "#fff",
   "theme_color": "#3778C2",
